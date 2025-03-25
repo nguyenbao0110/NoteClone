@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "154945995055",
+    "firebase_url": "https://apple-notes-clone-default-rtdb.firebaseio.com",
+    "project_id": "apple-notes-clone",
+    "storage_bucket": "apple-notes-clone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154945995055:android:228b032e57bfe7c913e1da",
+        "android_client_info": {
+          "package_name": "com.example.apple_notes_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADTb22OBhiFrHtXXc6HMmvD7pNI99ACJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
